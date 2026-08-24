@@ -4,7 +4,7 @@
 
 Forma de entrega: repositório individual no GitHub, relatório em Markdown e apresentação prática
 Valor: 10,0 pontos
-Data de entrega: 28/08  - apresentar pitch e entrega em repos (o aluno deverar criar seu repos com os artefatos criados e liberar link via e-mail para o professor), total 2 pontos de 50% da P2, os outros 50% serão do projeto integrador.
+Data de entrega: 28/08  - apresentar pitch (explicar código C) e entregar em repos (o aluno deverar criar seu repos com os artefatos criados e liberar link via e-mail para o professor), total 2 pontos de 50% da P2, os outros 50% serão do projeto integrador.
 
 ## 1. Objetivo
 
