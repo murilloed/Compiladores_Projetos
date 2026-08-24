@@ -1,5 +1,9 @@
 # Atividade prática: construção de um analisador léxico em C
 
+# Forma de entrega: repositório individual no GitHub, relatório em Markdown e apresentação prática
+Valor: 10,0 pontos
+Data de entrega: 28/08  - apresentar pitch e entrega em repos (o aluno deverar criar seu repos com os artefatos criados e liberar link via e-mail para o professor), total 2 pontos de 50% da P2, os outros 50% serão do projeto integrador.
+
 ## 1. Objetivo
 
 Nesta atividade, você desenvolverá, em linguagem C, uma versão simplificada da primeira etapa de um compilador: a **análise léxica**.
